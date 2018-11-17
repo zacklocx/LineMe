@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "8014cd65-4a97-4b3c-becc-1b308faa55f0",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "food_greens": {
+      "ver": "1.0.3",
+      "uuid": "bfa24ec0-f1cb-4014-9b40-2eeafb9077ab",
+      "rawTextureUuid": "8014cd65-4a97-4b3c-becc-1b308faa55f0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 1,
+      "offsetY": -0.5,
+      "trimX": 2,
+      "trimY": 1,
+      "width": 83,
+      "height": 84,
+      "rawWidth": 85,
+      "rawHeight": 85,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

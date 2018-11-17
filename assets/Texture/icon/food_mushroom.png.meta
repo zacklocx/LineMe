@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "32de5819-c8c2-40dd-8770-c3b45bd17790",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "food_mushroom": {
+      "ver": "1.0.3",
+      "uuid": "7ec29fc5-d1ab-4be4-b45b-c2e843b152a5",
+      "rawTextureUuid": "32de5819-c8c2-40dd-8770-c3b45bd17790",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 1,
+      "offsetY": -0.5,
+      "trimX": 3,
+      "trimY": 1,
+      "width": 81,
+      "height": 84,
+      "rawWidth": 85,
+      "rawHeight": 85,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
